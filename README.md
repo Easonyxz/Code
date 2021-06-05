@@ -1,2 +1,2 @@
 # Code
-learning code
+Document my code learning process
